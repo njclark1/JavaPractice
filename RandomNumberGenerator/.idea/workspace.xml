@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dd704e78-1f1e-4d7e-9e7d-bf36433a01cc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomNumberGenerator/dev/nclark/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RandomNumberGenerator/dev/nclark/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dev/nclark/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dev/nclark/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
